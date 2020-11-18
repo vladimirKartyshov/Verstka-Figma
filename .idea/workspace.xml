@@ -61,16 +61,40 @@
       <workItem from="1604879099350" duration="298000" />
       <workItem from="1605180351719" duration="92000" />
       <workItem from="1605261844707" duration="1176000" />
+      <workItem from="1605292277570" duration="137000" />
+      <workItem from="1605723856039" duration="1787000" />
+      <workItem from="1605725693971" duration="1778000" />
+      <workItem from="1605727512910" duration="1216000" />
     </task>
+    <task id="LOCAL-00001" summary="Header">
+      <created>1605292335737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605292335737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Header" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="335" width="753" height="443" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604873651214">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="614" y="335" width="753" height="443" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1604873651214" />
+    <state x="474" y="40" key="CommitChangelistDialog2" timestamp="1605292334296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="474" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605292334296" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1605292338492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605292338492" />
   </component>
 </project>

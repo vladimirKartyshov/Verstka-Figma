@@ -16,6 +16,14 @@ body {
     font-weight: 700;
 }
 
+.wrap {
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 .nav {
     list-style-type: none;
     display: flex;
@@ -60,4 +68,22 @@ body {
 .logo_text {
     font-size: 24px;
     color: #202020;
+}
+
+.page {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+}
+
+.page-top {
+    border-top: 1px solid #C2C2C2;
+}
+
+.page h2 {
+    position: absolute;
+    font-size: 14px;
+    font-weight: 300;
+    background-color: #fff;
+    padding: 5px 15px;
 }
