@@ -4,8 +4,6 @@
     <list default="true" id="17632069-9eec-4ee0-9b5c-3f62226c1089" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/client-12.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/client-12.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,9 @@
       <workItem from="1606315567609" duration="7000" />
       <workItem from="1606315592946" duration="6000" />
       <workItem from="1606332712715" duration="7000" />
-      <workItem from="1606332802324" duration="1584000" />
+      <workItem from="1606332802324" duration="1747000" />
+      <workItem from="1606334572716" duration="3000" />
+      <workItem from="1606334661287" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="Header">
       <created>1605292335737</created>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606249744878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="clients and team">
+      <created>1606334545645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606334545645</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +124,8 @@
     <MESSAGE value="body has been started" />
     <MESSAGE value="svg has been added" />
     <MESSAGE value="12 svg" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 svg" />
+    <MESSAGE value="clients and team" />
+    <option name="LAST_COMMIT_MESSAGE" value="clients and team" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="335" width="753" height="443" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604873651214">
@@ -128,13 +136,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606333497964" />
-    <state x="474" y="40" key="CommitChangelistDialog2" timestamp="1606249743772">
+    <state x="474" y="40" key="CommitChangelistDialog2" timestamp="1606334544508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="474" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606249743772" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606249746928">
+    <state x="474" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606334544508" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606334547417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606249746928" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606334547417" />
   </component>
 </project>
