@@ -149,13 +149,13 @@ body {
     display: grid;
     grid-template: repeat(2, 1fr) / repeat(4,25%);
     text-align: center;
-    grid-row-gap: 50px;
+    grid-row-gap: 60px;
 }
 
 .team {
     display: grid;
     grid-template: repeat(3, 1fr) / repeat(3, 33%);
-    grid-row-gap: 50px;
+    grid-row-gap: 60px;
     margin-left: 50px;
 }
 
@@ -178,6 +178,9 @@ body {
 
 .team-item>p {
     /*flex-basis: calc(100% - 100px);*/
+    height: 17px;
+    font-size: 14px;
+    line-height: 16px;
     margin-top: 80px;
-    margin-right: 0px;
+    margin-left: 10px;
 }
