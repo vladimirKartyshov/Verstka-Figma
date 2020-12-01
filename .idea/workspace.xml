@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17632069-9eec-4ee0-9b5c-3f62226c1089" name="Default Changelist" comment="">
+    <list default="true" id="17632069-9eec-4ee0-9b5c-3f62226c1089" name="Default Changelist" comment="grid again">
+      <change afterPath="$PROJECT_DIR$/img/team-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team.8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +46,13 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\v-vlkart\WebstormProjects\Verstka-Figma\img" />
-      <recent name="$PROJECT_DIR$/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\v-vlkart\WebstormProjects\Verstka-Figma\img" />
       <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\v-vlkart\WebstormProjects\Verstka-Figma\img" />
+      <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
@@ -76,7 +86,10 @@
       <workItem from="1606332712715" duration="7000" />
       <workItem from="1606332802324" duration="1747000" />
       <workItem from="1606334572716" duration="3000" />
-      <workItem from="1606334661287" duration="239000" />
+      <workItem from="1606334661287" duration="662000" />
+      <workItem from="1606844197083" duration="36000" />
+      <workItem from="1606844395524" duration="1740000" />
+      <workItem from="1606846178491" duration="1801000" />
     </task>
     <task id="LOCAL-00001" summary="Header">
       <created>1605292335737</created>
@@ -113,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606334545645</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="grid again">
+      <created>1606335156670</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606335156670</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +145,8 @@
     <MESSAGE value="svg has been added" />
     <MESSAGE value="12 svg" />
     <MESSAGE value="clients and team" />
-    <option name="LAST_COMMIT_MESSAGE" value="clients and team" />
+    <MESSAGE value="grid again" />
+    <option name="LAST_COMMIT_MESSAGE" value="grid again" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="335" width="753" height="443" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604873651214">
@@ -136,13 +157,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606333497964" />
-    <state x="474" y="40" key="CommitChangelistDialog2" timestamp="1606334544508">
+    <state x="474" y="40" key="CommitChangelistDialog2" timestamp="1606844208055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="474" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606334544508" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606334547417">
+    <state x="474" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606844208055" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606335158638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606334547417" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606335158638" />
   </component>
 </project>

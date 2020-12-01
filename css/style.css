@@ -147,11 +147,37 @@ body {
 
 .clients {
     display: grid;
-    grid-template: 120px 120px / repeat(4,25%);
+    grid-template: repeat(2, 1fr) / repeat(4,25%);
     text-align: center;
+    grid-row-gap: 50px;
 }
 
 .team {
     display: grid;
     grid-template: repeat(3, 1fr) / repeat(3, 33%);
+    grid-row-gap: 50px;
+    margin-left: 50px;
+}
+
+.team-item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.team-item img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.team-item>h3 {
+    margin-left: 0px;
+    margin-right: -60px;
+}
+
+.team-item>p {
+    /*flex-basis: calc(100% - 100px);*/
+    margin-top: 80px;
+    margin-right: 0px;
 }
