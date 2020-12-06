@@ -16,6 +16,12 @@ body {
     font-weight: 700;
 }
 
+.footer {
+    background-color: #F7F7F7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .wrap {
     width: 100%;
     max-width: 1180px;
@@ -183,4 +189,27 @@ body {
     line-height: 16px;
     margin-top: 80px;
     margin-left: 10px;
+}
+
+.box-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+}
+
+.social>li {
+    margin-left: 15px;
+}
+
+.social>li>a {
+    text-decoration: none;
+    color: #B2B2B2;
+    font-size: 24px;
+
 }
