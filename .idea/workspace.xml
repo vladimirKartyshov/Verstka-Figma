@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17632069-9eec-4ee0-9b5c-3f62226c1089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/all.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -89,7 +87,10 @@
       <workItem from="1606848023144" duration="303000" />
       <workItem from="1606848406700" duration="574000" />
       <workItem from="1607255173317" duration="1281000" />
-      <workItem from="1607257045456" duration="1401000" />
+      <workItem from="1607257045456" duration="1623000" />
+      <workItem from="1607258874595" duration="39000" />
+      <workItem from="1607264182480" duration="1774000" />
+      <workItem from="1607266010561" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="Header">
       <created>1605292335737</created>
@@ -147,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606848971349</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="footer">
+      <created>1607258663421</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607258663421</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +170,8 @@
     <MESSAGE value="grid again" />
     <MESSAGE value="fotos team" />
     <MESSAGE value="fotos team had been corrected" />
-    <option name="LAST_COMMIT_MESSAGE" value="fotos team had been corrected" />
+    <MESSAGE value="footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="335" width="753" height="443" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604873651214">
@@ -173,13 +182,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606333497964" />
-    <state x="474" y="40" key="CommitChangelistDialog2" timestamp="1606848970046">
+    <state x="474" y="40" key="CommitChangelistDialog2" timestamp="1607258662293">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="474" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606848970046" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606848973516">
+    <state x="474" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607258662293" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1607258665572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606848973516" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607258665572" />
   </component>
 </project>

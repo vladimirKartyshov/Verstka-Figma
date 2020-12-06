@@ -1,5 +1,6 @@
 body {
     font-family: 'Ubuntu', sans-serif;
+    min-width: 1180px;
 }
 
 .header {
@@ -180,6 +181,8 @@ body {
 .team-item>h3 {
     margin-left: 0px;
     margin-right: -60px;
+    font-size: 28px;
+    color: #202020;
 }
 
 .team-item>p {
@@ -189,6 +192,8 @@ body {
     line-height: 16px;
     margin-top: 80px;
     margin-left: 10px;
+    color: #B2B2B2;
+    margin-bottom: 0;
 }
 
 .box-footer {
